@@ -1,42 +1,55 @@
-# Denys-Nyzhnehorodtsev
+# 👋 Hi, I'm Denys Nyzhnehorodtsev
 
-# Hi, I'm Denys 👋
-
-Frontend Developer (React / Next.js / TypeScript)
-
-🚀 Creator of SVG Force  
-👉 https://www.svgforce.dev
+🚀 Frontend Developer (React / Next.js / TypeScript)  
+⚡ Building performance-driven web apps & tools  
+🔥 Creator of SVG Force  
 
 ---
 
-## 🧠 About me
+## 🌐 My Project
 
-- 4+ years of commercial experience  
-- Built production apps with Next.js (SSR, SEO, performance)  
-- Worked as a solo Front-End developer on complex projects  
-- Strong focus on clean architecture and UX  
+### 🚀 SVG Force
+> Convert raw SVG into clean, production-ready components
+
+👉 https://www.svgforce.dev
+
+✔️ React / React Native / Angular support  
+✔️ Optimized SVG structure  
+✔️ currentColor / gradients  
+✔️ Ready for animations  
 
 ---
 
-## ⚡ Projects
+## 🧠 About Me
 
-### 🔹 SVG Force
-Convert raw SVG into clean, production-ready components  
-👉 https://www.svgforce.dev
+- 💼 4+ years commercial experience  
+- 🧑‍💻 Solo Front-End developer on production apps  
+- ⚡ Strong focus on performance, SSR & SEO  
+- 🏗 Built full product from scratch (frontend + backend + infra)
 
 ---
 
 ## 🛠 Tech Stack
 
-- React / Next.js
-- TypeScript
-- SCSS / Tailwind
-- Node.js
-- REST API / SSR
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Denys-Nyzhnehorodtsev&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
 
-- GitHub: https://github.com/Denys-Nyzhnehorodtsev
-- Website: https://www.svgforce.dev
+- 🌐 Website: https://www.svgforce.dev  
+- 💻 GitHub: https://github.com/Denys-Nyzhnehorodtsev  
+
+---
+
+⭐ If you like what I do — feel free to follow
