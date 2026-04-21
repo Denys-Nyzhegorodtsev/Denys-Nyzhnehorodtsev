@@ -43,12 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Denys-Nyzhnehorodtsev&theme=github_dark)
-
----
-
 ## 📫 Contact
 
 - 🌐 Website: https://www.svgforce.dev  
