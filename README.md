@@ -1,3 +1,5 @@
+![preview](https://avatars.githubusercontent.com/u/186418286?s=400&u=6635dda38aa9c7aa403719b4876131f8310c7766&v=4)
+
 # 👋 Hi, I'm Denys Nyzhnehorodtsev
 
 🚀 Frontend Developer (React / Next.js / TypeScript)  
