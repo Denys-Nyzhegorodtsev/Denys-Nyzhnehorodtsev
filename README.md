@@ -4,8 +4,7 @@
 
 # 👋 Hi, I'm Denys Nyzhnehorodtsev
 
-🚀 Frontend Developer (React / Next.js / TypeScript)  
-⚡ Building performance-driven web apps & tools  
+🚀 Frontend Developer (React / Next.js / TypeScript)
 🔥 Creator of SVG Force  
 
 ---
@@ -13,7 +12,7 @@
 ## 🌐 My Project
 
 ### 🚀 SVG Force
-> Convert raw SVG into clean, production-ready components
+> Turn messy SVGs into clean, production-ready components in seconds
 
 👉 https://www.svgforce.dev
 
