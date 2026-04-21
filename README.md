@@ -26,7 +26,7 @@
 
 ## 🧠 About Me
 
-- 💼 4+ years commercial experience  
+- 💼 10+ years commercial experience  
 - 🧑‍💻 Solo Front-End developer on production apps  
 - ⚡ Strong focus on performance, SSR & SEO  
 - 🏗 Built full product from scratch (frontend + backend + infra)
